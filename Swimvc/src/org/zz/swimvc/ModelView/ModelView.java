@@ -13,7 +13,10 @@ public class ModelView {
 	private View view = new View();
 	
 	private Map<String, Object> map = new HashMap<String, Object>();
-	
+	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
 	
 	
 	
