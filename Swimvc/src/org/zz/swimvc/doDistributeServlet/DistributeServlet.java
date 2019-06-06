@@ -59,7 +59,7 @@ public class DistributeServlet extends HttpServlet {
 		mv = ec.Execution(request, response, UrlMapping);		
 		render(mv,request,response);
 		
-	       
+	    System.out.print("hi");
 		
 		
 		
