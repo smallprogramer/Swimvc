@@ -15,7 +15,7 @@ public class ModelView {
 	private Map<String, Object> map = new HashMap<String, Object>();
 	private void sysout() {
 		// TODO Auto-generated method stub
-         System.out.println("1111");
+         System.out.println("master");
 	}
 	
 	
